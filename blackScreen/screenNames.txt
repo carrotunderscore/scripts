@@ -1,0 +1,3 @@
+DisplayPort-2 = TV
+DisplayPort-1 = HÖGER SKÄRM
+DisplayPort-0 = VÄNSTER SKÄRM

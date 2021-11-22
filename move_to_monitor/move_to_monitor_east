@@ -1,0 +1,3 @@
+#!/bin/sh
+
+move-to-monitor --direction EAST
